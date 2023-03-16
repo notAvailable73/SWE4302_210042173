@@ -1,0 +1,12 @@
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.csproj.AssemblyReference.cache
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\Lab_09B.Form2.resources
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.Properties.Resources.resources
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\Lab_09B.signUp.resources
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.csproj.GenerateResource.cache
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.csproj.CoreCompileInputs.cache
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\bin\Debug\lab9a.exe.config
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\bin\Debug\lab9a.exe
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\bin\Debug\lab9a.pdb
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.exe
+C:\Users\mhsia\Desktop\New folder\lab9a\lab9a\obj\Debug\lab9a.pdb
